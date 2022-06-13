@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tourweb/static/css/main.08e12903.css",
+    "main.js": "/tourweb/static/js/main.94fdcad9.js",
+    "static/media/img-2.jpg": "/tourweb/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/tourweb/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/tourweb/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/tourweb/index.html",
+    "main.08e12903.css.map": "/tourweb/static/css/main.08e12903.css.map",
+    "main.94fdcad9.js.map": "/tourweb/static/js/main.94fdcad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e12903.css",
+    "static/js/main.94fdcad9.js"
+  ]
+}
